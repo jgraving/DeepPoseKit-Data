@@ -1,0 +1,10 @@
+name,parent,swap
+snout,,
+head,snout,
+neck,head,
+forelegL1,neck,forelegR1
+forelegR1,neck,forelegL1
+hindlegL1,tailbase,hindlegR1
+hindlegR1,tailbase,hindlegL1
+tailbase,,
+tailtip,tailbase,

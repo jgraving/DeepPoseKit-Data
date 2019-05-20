@@ -19,6 +19,6 @@ git clone git+https://www.github.com/jgraving/deepposekit-data
 ```
 License
 ------------
-Released under a Apache 2.0 License. See [LICENSE](https://github.com/jgraving/deepposekit/blob/master/LICENSE.md) for details.
+Released under a Apache 2.0 License. See [LICENSE](https://github.com/jgraving/deepposekit-data/blob/master/LICENSE.md) for details.
 
 

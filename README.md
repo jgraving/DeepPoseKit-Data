@@ -11,6 +11,7 @@ DeepPoseKit Data: example datasets for DeepPoseKit
              publisher={Cold Spring Harbor Laboratory}
             }
 
+[![DOI](https://zenodo.org/badge/187461206.svg)](https://zenodo.org/badge/latestdoi/187461206)
 
 Download
 ------------
